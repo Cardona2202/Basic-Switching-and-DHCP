@@ -17,6 +17,8 @@ A Cisco Packet Tracer project implementing a secure multi-VLAN enterprise networ
 | 20 | HR | 192.168.2.0/24 |
 | 99 | IT / Management | 192.168.99.0/24 |
 | 69 | unused port | 
+|    | IT (WFH) | 192.168.30.2
+
 
 ## ⚙️ Implemented Technologies
 
